@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w3Q9k0XFYgI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xilef\\RiderProjects\\MagArenaHack\\MagArenaHack\\MagArenaHack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xilef\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\xilef\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
