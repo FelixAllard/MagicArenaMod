@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MagArenaHack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce890922de0d18dfbe16834ccd3149d325f0fa69")]
 [assembly: System.Reflection.AssemblyProductAttribute("MagArenaHack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MagArenaHack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

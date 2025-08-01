@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagArenaHack", "MagArenaHack\MagArenaHack.csproj", "{09AA4E81-13DA-4A29-9FF6-AB990505E705}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedCheats", "SharedCheats\SharedCheats.csproj", "{2E82169C-91A6-4BA2-83A5-CA95D0D7B0C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfiniteDivineLight", "InfiniteDivineLight\InfiniteDivineLight.csproj", "{2063914E-AA6F-4C2B-8058-D189B3B61C28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{09AA4E81-13DA-4A29-9FF6-AB990505E705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09AA4E81-13DA-4A29-9FF6-AB990505E705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09AA4E81-13DA-4A29-9FF6-AB990505E705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E82169C-91A6-4BA2-83A5-CA95D0D7B0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E82169C-91A6-4BA2-83A5-CA95D0D7B0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E82169C-91A6-4BA2-83A5-CA95D0D7B0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E82169C-91A6-4BA2-83A5-CA95D0D7B0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2063914E-AA6F-4C2B-8058-D189B3B61C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2063914E-AA6F-4C2B-8058-D189B3B61C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2063914E-AA6F-4C2B-8058-D189B3B61C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2063914E-AA6F-4C2B-8058-D189B3B61C28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

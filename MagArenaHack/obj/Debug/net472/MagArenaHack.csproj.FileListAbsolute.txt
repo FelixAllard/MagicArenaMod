@@ -153,3 +153,4 @@ C:\Users\xilef\RiderProjects\MagArenaHack\MagArenaHack\obj\Debug\net472\MagArena
 C:\Users\xilef\RiderProjects\MagArenaHack\MagArenaHack\obj\Debug\net472\MagArena.A1A88B27.Up2Date
 C:\Users\xilef\RiderProjects\MagArenaHack\MagArenaHack\obj\Debug\net472\MagArenaHack.dll
 C:\Users\xilef\RiderProjects\MagArenaHack\MagArenaHack\obj\Debug\net472\MagArenaHack.pdb
+C:\Users\xilef\RiderProjects\MagArenaHack\MagArenaHack\obj\Debug\net472\MagArenaHack.sourcelink.json
